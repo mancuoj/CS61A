@@ -1,9 +1,10 @@
 # CS61A
 
-UCB CS61A — 2022 spring solutions 🧑‍💻
+UCB CS61A — 2022 Spring Solutions 🧑‍💻
 
 - [Course Link](https://inst.eecs.berkeley.edu/~cs61a/sp22/)
 - [Textbook](http://composingprograms.com/)
+- [My Blog](https://mancuoj.vercel.app/cs61a)
 
 
 ## What is it?
