@@ -1,8 +1,8 @@
 # CS61A
 
-UCB CS61A — 2022 Spring Solutions 🧑‍💻
+UCB CS61A — 2022 Summer Solutions 🧑‍💻
 
-- [Course Link](https://inst.eecs.berkeley.edu/~cs61a/sp22/)
+- [Course Link](https://cs61a.org/)
 - [Textbook](http://composingprograms.com/)
 - [My Blog](https://mancuoj.vercel.app/cs61a)
 
@@ -15,6 +15,7 @@ Techniques include procedural abstraction; control abstraction using recursion, 
 
 - ✅ Videos
 - ✅ Textbook
-- ✅ Lab & HW & Solutions
-- ✅ Slides & Disc
+- ✅ Lab & HW & & Project
+- ✅ Disc & Solutions
+- ✅ Slides & Notes
 - ✅ Auto Grader
