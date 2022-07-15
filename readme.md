@@ -15,6 +15,6 @@ Techniques include procedural abstraction; control abstraction using recursion, 
 
 - ✅ Videos
 - ✅ Textbook
-- ✅ Lab & HW
+- ✅ Lab & HW & Solutions
 - ✅ Slides & Disc
 - ✅ Auto Grader
